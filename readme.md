@@ -49,4 +49,6 @@ This project is based on smallpt -- 99 lines open source C++ code of path tracer
 
 ## Test
 
-* Rendering time on Mac 
+* Rendering time on Mac   
+
+![test](https://raw.githubusercontent.com/davidpypysp/softbivpt/master/files/test.png)  
