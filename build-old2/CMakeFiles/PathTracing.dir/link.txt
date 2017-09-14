@@ -1,0 +1,1 @@
+/Users/shipingci/gcc48/usr/local/bin/g++    -O3 -std=c++0x -march=native -fopenmp -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PathTracing.dir/src/Main.cpp.o CMakeFiles/PathTracing.dir/src/PathTracer.cpp.o CMakeFiles/PathTracing.dir/src/BiDirectionalPT.cpp.o CMakeFiles/PathTracing.dir/src/scene.cpp.o  -o PathTracing  

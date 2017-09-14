@@ -1,0 +1,3 @@
+/Users/shipingci/Projects/SmallBiDir-master-vpt/build-BiVpt-new/CMakeFiles/rebuild_cache.dir
+/Users/shipingci/Projects/SmallBiDir-master-vpt/build-BiVpt-new/CMakeFiles/edit_cache.dir
+/Users/shipingci/Projects/SmallBiDir-master-vpt/build-BiVpt-new/CMakeFiles/PathTracing.dir

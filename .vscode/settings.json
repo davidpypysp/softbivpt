@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "cstddef": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp",
+        "__locale": "cpp",
+        "cmakeccompilerid.c": "cpp",
+        "cmath": "cpp",
+        "memory": "cpp",
+        "utility": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "__tree": "cpp",
+        "bitset": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "ios": "cpp"
+    }
+}
