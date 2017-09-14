@@ -16,7 +16,6 @@ This project is based on smallpt -- 99 lines open source C++ code of path tracer
 * Different volumetric parameter
 
 ## How to use:
---------------------
 
 * use Cmake as the building tool of the program.  
 
