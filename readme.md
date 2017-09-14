@@ -23,24 +23,27 @@ This project is based on smallpt -- 99 lines open source C++ code of path tracer
 
 ## How to use:
 
-* use Cmake as the building tool of the program.  
+* Use Cmake as the building tool of the program.  
 
-./softbivpt.exe N L scene#
+* Run softbivpt.exe in shell with parameters.  
 
-N = number of Samples
+    ./softbivpt.exe N L scene#
 
-L = Light Bounces
+    N = number of Samples
 
-scene# scene located at scenes/  
-Available scenes: scene, scene1, scene2, scene3, scene4, scene5
-Example: ./softbivpt 16 4 scene5
-Then you can choose rendering method such as volumetric path tracing and bidirectional path tracing
+    L = Light Bounces
 
-* (temp)  
+    scene# scene located at scenes/  
+    Available scenes: default, scene, scene1, scene2, scene3, scene4, scene5  
 
-parameters sigma_s and sigma_a to control the scattering and absorption of light.
-you can modify them in src/main.cpp: line 68 to generate different volumetric effect to test.
+    Example: ./softbivpt 16 4 scene5  
 
-In src/Renderer.h: line 41, I ignore this line "#pragma omp parallel for" because openmp has some problem on my mac. You can reopen it if it works fine in your system.
+    Then you can choose rendering method such as volumetric path tracing and bidirectional path tracing
+
+    (temp)  
+    parameters sigma_s and sigma_a to control the scattering and absorption of light.
+    you can modify them in src/main.cpp: line 68 to generate different volumetric effect to test.
+
+    In src/Renderer.h: line 41, I ignore this line "#pragma omp parallel for" because openmp has some problem on my mac. You can reopen it if it works fine in your system.
 
 
