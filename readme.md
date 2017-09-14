@@ -9,11 +9,17 @@ This project is based on smallpt -- 99 lines open source C++ code of path tracer
 
 ## Rendering Results
 
-* Bidirectional path tracing 
+* Bidirectional path tracing  
 
-* Volumetric path tracing with bi-dir
+![bidir_pt](https://raw.githubusercontent.com/davidpypysp/softbivpt/master/files/bidirpt.png)
 
-* Different volumetric parameter
+* Volumetric path tracing with bi-dir 
+
+![vpt](https://raw.githubusercontent.com/davidpypysp/softbivpt/master/files/vpt.png)
+
+* Different volumetric parameter results
+
+![diff_vpt](https://raw.githubusercontent.com/davidpypysp/softbivpt/master/files/diff_vpt.png)
 
 ## How to use:
 
