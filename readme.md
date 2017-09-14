@@ -47,3 +47,6 @@ This project is based on smallpt -- 99 lines open source C++ code of path tracer
     In src/Renderer.h: line 41, I ignore this line "#pragma omp parallel for" because openmp has some problem on my mac. You can reopen it if it works fine in your system.
 
 
+## Test
+
+* Rendering time on Mac 
